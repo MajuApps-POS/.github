@@ -1,4 +1,4 @@
-![MajuApps banner](./majuapps-banner.svg)
+![MajuApps banner](./white-banner.png)
 
 # MajuApps
 
